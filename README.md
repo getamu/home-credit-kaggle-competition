@@ -3,4 +3,4 @@ This is an online machine learning competition, currently being hosted on kaggle
 Exploratory Data Analysis and achieves an accuracy of 79.2% with the basic first level machine learning model 
 (using Microsoft's LightGBM library).
 
-Currently, we are engineering the features to improve the current ML model.  
+This project is in progress and currently, we are engineering the features to improve the current ML model.  
